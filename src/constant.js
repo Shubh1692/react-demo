@@ -1,1 +1,1 @@
-export const API_DOMAIN = 'http://localhost:8000/';
+export const API_DOMAIN = 'https://polar-depths-48203.herokuapp.com/';
